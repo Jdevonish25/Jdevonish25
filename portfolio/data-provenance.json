@@ -1,0 +1,198 @@
+{
+  "prepared": "2026-11-20",
+  "workbooks": [
+    {
+      "file": "CreditLens - Digital Lending & Credit Risk.twbx",
+      "bytes": 3076484,
+      "sha256": "60646a2833e5b94506f5872c618baffa6895e2f879db91b4cde4a6ee1078ec58"
+    },
+    {
+      "file": "FDA Product Recall Data.twbx",
+      "bytes": 7863748,
+      "sha256": "58de54c9ac52fd4189a1c314c57605bf1d207c665b3f07848fa78e763f931a25"
+    },
+    {
+      "file": "IslandPay - Publish.twbx",
+      "bytes": 1863139,
+      "sha256": "951ae042fccc5e45ac6397667fff6d3463115c192246a718660668915bfcdbd0"
+    },
+    {
+      "file": "Jamaica - Executive Intelligence.twbx",
+      "bytes": 113425,
+      "sha256": "95c6bda39ed48751ff6a817175ea0889096e5f531d7df557069fe7fee3a3d0c9"
+    },
+    {
+      "file": "Jamaica - Tourism Demand Intelligence.twbx",
+      "bytes": 171770,
+      "sha256": "92776aaba8f97ddb979b538eaa2d9dc0f1b4224a611dfd768b61e755da85f8b9"
+    },
+    {
+      "file": "Sample Superstore.twbx",
+      "bytes": 508330,
+      "sha256": "44b5617eaf08778c5a6f229d01bfd5cd0b95b442170c79b364bfa10307103fbc"
+    }
+  ],
+  "sources": {
+    "creditlens": {
+      "dataset": "Default of Credit Card Clients",
+      "creator": "I-Cheng Yeh",
+      "source": "https://archive.ics.uci.edu/dataset/350/default",
+      "doi": "https://doi.org/10.24432/C55S3H",
+      "license": "CC BY 4.0",
+      "retrieved": "2026-11-19",
+      "period": "April\u2013September 2005; next-month default outcome",
+      "country": "Taiwan",
+      "currency": "New Taiwan dollar (NTD / NT$)",
+      "raw_sha256": "30c6be3abd8dcfd3e6096c828bad8c2f011238620f5369220bd60cfc82700933",
+      "adaptations": "Renamed fields; unpivoted monthly history; derived positive balance, explicit bands, coded delay indicators and a fixed 100-account detail sample. No invented records or performance targets."
+    },
+    "tourism": {
+      "retrieved": "2026-11-20",
+      "publisher": "Jamaica Tourist Board",
+      "sources": [
+        {
+          "file": "country-month-2023.xlsx",
+          "sha256": "262897cfd5656628fd998e766f66ed5023ebdafdd2c6e0a2da834a00e20042e4",
+          "publisher": "Jamaica Tourist Board",
+          "period": 2023
+        },
+        {
+          "file": "country-month-2024.xlsx",
+          "sha256": "461085b518b4c278734696190c5a69afa12cd18d085bc16d8af599e02a69bae4",
+          "publisher": "Jamaica Tourist Board",
+          "period": 2024
+        },
+        {
+          "file": "country-month-2025.xlsx",
+          "sha256": "7fdfd1a8722b691e0f6b4a3f63f4e9ef30f749c0776873ebe12e6f8677ac89af",
+          "publisher": "Jamaica Tourist Board",
+          "period": 2025
+        }
+      ],
+      "transforms": "Read cached XLSX values; excluded all subtotal rows; unpivoted months; reconciled leaf sums and nationality components to printed grand totals. Fixed top-eight reporting areas per market, based on all 2025 arrivals. No simulated observations.",
+      "limitations": [
+        "Arrival events, not unique people or bookings.",
+        "Reporting areas mix US states, Canadian provinces, countries and published residual categories.",
+        "Source category Czechoslovakia is preserved as published, not remapped to modern boundaries.",
+        "Some source months may be revised in later releases.",
+        "No occupancy, revenue, hotel capacity or causal attribution is calculated."
+      ]
+    },
+    "financial_access": {
+      "retrieved": "2026-11-18",
+      "license": "World Bank CC BY 4.0; see individual indicator pages",
+      "indicators": [
+        {
+          "code": "FX.OWN.TOTL.ZS",
+          "indicator": "Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+)",
+          "definition": "Account denotes the percentage of respondents who report having an account (by themselves or together with someone else) at a bank or another type of financial institution or report personally using a mobile money service in the past 12 months (% age 15+).",
+          "source": "Global Findex Database, World Bank (WB), uri: https://www.worldbank.org/en/publication/globalfindex",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/FX.OWN.TOTL.ZS"
+        },
+        {
+          "code": "FX.OWN.TOTL.FE.ZS",
+          "indicator": "Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",
+          "definition": "Account denotes the percentage of respondents who report having an account (by themselves or together with someone else) at a bank or another type of financial institution or report personally using a mobile money service in the past 12 months (female, % age 15+).",
+          "source": "Global Findex Database, World Bank (WB), uri: https://www.worldbank.org/en/publication/globalfindex",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/FX.OWN.TOTL.FE.ZS"
+        },
+        {
+          "code": "FX.OWN.TOTL.MA.ZS",
+          "indicator": "Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",
+          "definition": "Account denotes the percentage of respondents who report having an account (by themselves or together with someone else) at a bank or another type of financial institution or report personally using a mobile money service in the past 12 months (male, % age 15+).",
+          "source": "Global Findex Database, World Bank (WB), uri: https://www.worldbank.org/en/publication/globalfindex",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/FX.OWN.TOTL.MA.ZS"
+        },
+        {
+          "code": "FX.OWN.TOTL.40.ZS",
+          "indicator": "Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",
+          "definition": "Account denotes the percentage of respondents who report having an account (by themselves or together with someone else) at a bank or another type of financial institution or report personally using a mobile money service in the past 12 months (poorest 40%, share of population ages 15+).",
+          "source": "Global Findex Database, World Bank (WB), uri: https://www.worldbank.org/en/publication/globalfindex",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/FX.OWN.TOTL.40.ZS"
+        },
+        {
+          "code": "FX.OWN.TOTL.60.ZS",
+          "indicator": "Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",
+          "definition": "Account denotes the percentage of respondents who report having an account (by themselves or together with someone else) at a bank or another type of financial institution or report personally using a mobile money service in the past 12 months (richest 60%, share of population ages 15+).",
+          "source": "Global Findex Database, World Bank (WB), uri: https://www.worldbank.org/en/publication/globalfindex",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/FX.OWN.TOTL.60.ZS"
+        },
+        {
+          "code": "FB.ATM.TOTL.P5",
+          "indicator": "Automated teller machines (ATMs) (per 100,000 adults)",
+          "definition": "Automated teller machines (ATMs) are electromechanical devices which enable customers of financial institutions to perform financial transactions such as cash withdrawals, balance inquiries, deposits, transfer of funds, and obtaining account information, using an electronic card.",
+          "source": "Financial Access Survey, International Monetary Fund (IMF), uri: https://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/FB.ATM.TOTL.P5"
+        },
+        {
+          "code": "FB.CBK.BRCH.P5",
+          "indicator": "Commercial bank branches (per 100,000 adults)",
+          "definition": "Commercial bank branches are retail locations of resident commercial banks and other resident banks that function as commercial banks that provide financial services to customers and are physically separated from the main office but not organized as legally separated subsidiaries.",
+          "source": "Financial Access Survey, International Monetary Fund (IMF), uri: https://data.imf.org/en/datasets/IMF.STA:FAS",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/FB.CBK.BRCH.P5"
+        },
+        {
+          "code": "IT.NET.USER.ZS",
+          "indicator": "Individuals using the Internet (% of population)",
+          "definition": "Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.",
+          "source": "World Telecommunication/ICT Indicators Database, International Telecommunication Union (ITU), uri: https://datahub.itu.int/",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS"
+        },
+        {
+          "code": "FP.CPI.TOTL.ZG",
+          "indicator": "Inflation, consumer prices (annual %)",
+          "definition": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly.",
+          "source": "International Financial Statistics database, International Monetary Fund (IMF)",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG"
+        },
+        {
+          "code": "BX.TRF.PWKR.DT.GD.ZS",
+          "indicator": "Personal remittances, received (% of GDP)",
+          "definition": "Personal remittances comprise personal transfers and compensation of employees. Personal transfers consist of all current transfers in cash or in kind made or received by resident households to or from nonresident households. Personal transfers thus include all current transfers between resident and nonresident individuals. Compensation of employees refers to the income of border, seasonal, and other short-term workers who are employed in an economy where they are not resident and of residents employed by nonresident entities. Data are the sum of two items defined in the sixth edition of the IMF's Balance of Payments Manual: personal transfers and compensation of employees.",
+          "source": "Staff estimates, World Bank (WB);\nIMF balance of payments data, International Monetary Fund (IMF);\nWorld Bank GDP estimates, World Bank (WB);\nOECD GDP estimates, Organisation for Economic Co-operation and Development (OECD)",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS"
+        },
+        {
+          "code": "NY.GDP.PCAP.CD",
+          "indicator": "GDP per capita (current US$)",
+          "definition": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. The core indicator has been divided by the general population to achieve a per capita estimate.This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This indicator is expressed in United States dollars.",
+          "source": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD"
+        },
+        {
+          "code": "SL.UEM.TOTL.ZS",
+          "indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+          "definition": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment.",
+          "source": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+          "last_updated": "2026-11-11",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS"
+        }
+      ]
+    },
+    "payments": {
+      "type": "synthetic",
+      "generator": "Python random.Random(20261118)",
+      "period": "2026-01-01 to 2026-06-30",
+      "attempts": 88601,
+      "real_customer_data": false
+    },
+    "superstore": {
+      "type": "Tableau demonstration dataset"
+    },
+    "fda": {
+      "type": "archived FDA product-recall snapshot",
+      "counting_unit": "product record"
+    }
+  }
+}
