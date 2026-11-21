@@ -1,10 +1,24 @@
 # Analytics Portfolio | Julian Devonish
 
-Seven interactive Tableau projects covering sports, tourism, financial inclusion, payments, credit behavior, product recalls and commercial performance.
+Eight analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
 
 **Start with the live dashboard**, open its **00 | Start Here** page, then use this guide to understand the decision context and limitations. Download the `.twbx` workbook to inspect the packaged Tableau implementation locally.
 
 **[Back to my profile](https://github.com/Jdevonish25)** · **[All live dashboards](https://public.tableau.com/app/profile/jul.dev/vizzes)** · **[Machine learning capstone](https://github.com/Jdevonish25/Capstone_FMA_Project)**
+
+## Jamaica Credit Intelligence
+
+[Open dashboard](https://jamaica-credit-intelligence-julian.sparklingcocoa64.chatgpt.site) · [Technical case study](Jamaica-Credit-Intelligence-case-study.md) · [HTML/SVG source and data](Jamaica-Credit-Intelligence-source.zip)
+
+**Decision context:** understand lending growth, sector exposure and the distribution of overdue balances in Jamaica’s deposit-taking system.
+
+**Data:** 115 monthly observations from Bank of Jamaica, March 2017–September 2026, retrieved 21 November 2026. Published lending, loan-quality and business-size tables; no synthetic financial observations.
+
+**Experience:** four views combine executive KPIs, linked sector selection, an exposure-growth scatterplot, loan-quality trends, a monthly heatmap and documented calculations. The HTML/CSS/SVG interface includes reporting-month controls, tooltips and downloadable data.
+
+**Skills:** Python ingestion, wide-to-long transformation, financial ratio definitions, reconciliation, custom SVG visualization, responsive UI design and analytical communication.
+
+**Interpretation:** month-end balances are stocks, not new loan issuance. Sector classifications differ between lending and arrears tables, so no unverified sector default rates are constructed. This is a sourced snapshot and descriptive analysis, not a risk prediction model.
 
 ## NBA Courtside — The Modern Era
 
