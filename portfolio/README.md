@@ -1,10 +1,26 @@
 # Analytics Portfolio | Julian Devonish
 
-Six interactive Tableau projects covering tourism, financial inclusion, payments, credit behavior, product recalls and commercial performance.
+Seven interactive Tableau projects covering sports, tourism, financial inclusion, payments, credit behavior, product recalls and commercial performance.
 
 **Start with the live dashboard**, open its **00 | Start Here** page, then use this guide to understand the decision context and limitations. Download the `.twbx` workbook to inspect the packaged Tableau implementation locally.
 
 **[Back to my profile](https://github.com/Jdevonish25)** · **[All live dashboards](https://public.tableau.com/app/profile/jul.dev/vizzes)** · **[Machine learning capstone](https://github.com/Jdevonish25/Capstone_FMA_Project)**
+
+## NBA Courtside — The Modern Era
+
+[Open dashboard](https://public.tableau.com/app/profile/jul.dev/viz/NBACourtside-TheModernEra/01Courtside) · [Download workbook](NBA%20Courtside%20-%20The%20Modern%20Era.twbx) · [Technical case study](NBA-Courtside-case-study.md) · [Build scripts](NBA-Courtside-source.zip)
+
+**Analytical question:** how do player production, team efficiency and league playing style vary across seasons, and how can viewers compare them without mixing counting units?
+
+**Data and preparation:** NBA.com Stats observations via Larry's public nba_data mirror, covering 2014–15 through 2026–27, through 20 November 2026. Regular season and playoffs remain separate. The extract has 9,546 player records, 582 team records and 25 league aggregates, with each worksheet restricted to its appropriate grain. Player point totals reconcile to team totals in every season/competition combination.
+
+**Experience:** five pages cover the league overview, player matchups, team identity, era trends and a viewer guide. The opening **Starting Five** uses embedded NBA player portraits that change with the selected season, competition and category (points, rebounds, assists or threes per game). Its rank filters match the leaderboard, with names and rates displayed beside the photographs.
+
+**Skills demonstrated:** Python ingestion and preparation, source provenance, multi-grain modeling, KPI denominator control, Tableau parameters, calculated fields, embedded custom shapes, interactive ranking, data storytelling and source reconciliation.
+
+**Interpretation:** the 2026–27 season is partial; the publication is a static snapshot. The exploratory leader pool requires at least five appearances and 15 minutes per game, not official NBA qualification. Ties use unrounded rates then alphabetical names. Traded players retain season totals and their last team label. Latest NBA portraits do not imply historical team affiliation. No NBA endorsement; descriptive comparisons do not establish causes.
+
+**Attribution:** [NBA.com Stats](https://www.nba.com/stats), [nba_data mirror and documentation](https://github.com/llimllib/nba_data). Portraits: NBA.com. Source hashes and image credits accompany the technical case study.
 
 ## Jamaica Tourism Demand
 

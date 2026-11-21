@@ -1,0 +1,1207 @@
+{
+  "tested_combinations": 100,
+  "embedded_player_portraits": 112,
+  "all_slots_have_photos": true,
+  "combinations": [
+    {
+      "season": "2014-15",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "LeBron James",
+        "Stephen Curry",
+        "James Harden",
+        "Monta Ellis",
+        "Blake Griffin"
+      ]
+    },
+    {
+      "season": "2014-15",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Dwight Howard",
+        "DeAndre Jordan",
+        "Blake Griffin",
+        "LeBron James",
+        "LaMarcus Aldridge"
+      ]
+    },
+    {
+      "season": "2014-15",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "John Wall",
+        "Chris Paul",
+        "LeBron James",
+        "James Harden",
+        "J.J. Barea"
+      ]
+    },
+    {
+      "season": "2014-15",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Paul Pierce",
+        "JR Smith",
+        "Kyle Korver",
+        "Klay Thompson"
+      ]
+    },
+    {
+      "season": "2014-15",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Russell Westbrook",
+        "James Harden",
+        "Kevin Durant",
+        "LeBron James",
+        "Anthony Davis"
+      ]
+    },
+    {
+      "season": "2014-15",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "DeAndre Jordan",
+        "Andre Drummond",
+        "DeMarcus Cousins",
+        "Pau Gasol",
+        "Tyson Chandler"
+      ]
+    },
+    {
+      "season": "2014-15",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Chris Paul",
+        "John Wall",
+        "Ty Lawson",
+        "Ricky Rubio",
+        "Russell Westbrook"
+      ]
+    },
+    {
+      "season": "2014-15",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "Kyle Korver",
+        "Wesley Matthews",
+        "James Harden"
+      ]
+    },
+    {
+      "season": "2015-16",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Kevin Durant",
+        "Paul George",
+        "James Harden",
+        "Damian Lillard",
+        "LeBron James"
+      ]
+    },
+    {
+      "season": "2015-16",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "DeAndre Jordan",
+        "Dwight Howard",
+        "Mason Plumlee",
+        "Hassan Whiteside",
+        "Jonas Valanciunas"
+      ]
+    },
+    {
+      "season": "2015-16",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "Russell Westbrook",
+        "LeBron James",
+        "James Harden",
+        "Damian Lillard",
+        "Jeff Teague"
+      ]
+    },
+    {
+      "season": "2015-16",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "Damian Lillard",
+        "JR Smith",
+        "James Harden"
+      ]
+    },
+    {
+      "season": "2015-16",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Stephen Curry",
+        "James Harden",
+        "Kevin Durant",
+        "DeMarcus Cousins",
+        "LeBron James"
+      ]
+    },
+    {
+      "season": "2015-16",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Andre Drummond",
+        "DeAndre Jordan",
+        "Hassan Whiteside",
+        "Dwight Howard",
+        "DeMarcus Cousins"
+      ]
+    },
+    {
+      "season": "2015-16",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Rajon Rondo",
+        "Russell Westbrook",
+        "John Wall",
+        "Chris Paul",
+        "Ricky Rubio"
+      ]
+    },
+    {
+      "season": "2015-16",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "Damian Lillard",
+        "James Harden",
+        "Kyle Lowry"
+      ]
+    },
+    {
+      "season": "2016-17",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Russell Westbrook",
+        "LeBron James",
+        "Kevin Durant",
+        "James Harden",
+        "Stephen Curry"
+      ]
+    },
+    {
+      "season": "2016-17",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "DeAndre Jordan",
+        "Russell Westbrook",
+        "Marcin Gortat",
+        "Dwight Howard",
+        "Kevin Love"
+      ]
+    },
+    {
+      "season": "2016-17",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "Russell Westbrook",
+        "John Wall",
+        "Chris Paul",
+        "James Harden",
+        "LeBron James"
+      ]
+    },
+    {
+      "season": "2016-17",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "James Harden",
+        "Dennis Schr\u00f6der",
+        "Mike Conley",
+        "Kevin Love"
+      ]
+    },
+    {
+      "season": "2016-17",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Russell Westbrook",
+        "James Harden",
+        "Isaiah Thomas",
+        "Anthony Davis",
+        "DeMar DeRozan"
+      ]
+    },
+    {
+      "season": "2016-17",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Hassan Whiteside",
+        "Andre Drummond",
+        "DeAndre Jordan",
+        "Rudy Gobert",
+        "Dwight Howard"
+      ]
+    },
+    {
+      "season": "2016-17",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "James Harden",
+        "John Wall",
+        "Russell Westbrook",
+        "Chris Paul",
+        "Ricky Rubio"
+      ]
+    },
+    {
+      "season": "2016-17",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "Eric Gordon",
+        "James Harden",
+        "Isaiah Thomas"
+      ]
+    },
+    {
+      "season": "2017-18",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "LeBron James",
+        "Anthony Davis",
+        "Russell Westbrook",
+        "Kevin Durant",
+        "James Harden"
+      ]
+    },
+    {
+      "season": "2017-18",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Anthony Davis",
+        "Karl-Anthony Towns",
+        "Joel Embiid",
+        "Russell Westbrook",
+        "Clint Capela"
+      ]
+    },
+    {
+      "season": "2017-18",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "Rajon Rondo",
+        "John Wall",
+        "LeBron James",
+        "Kyle Lowry",
+        "Draymond Green"
+      ]
+    },
+    {
+      "season": "2017-18",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Khris Middleton",
+        "Bradley Beal",
+        "Victor Oladipo",
+        "Klay Thompson"
+      ]
+    },
+    {
+      "season": "2017-18",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "James Harden",
+        "Anthony Davis",
+        "LeBron James",
+        "Damian Lillard",
+        "Giannis Antetokounmpo"
+      ]
+    },
+    {
+      "season": "2017-18",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Andre Drummond",
+        "DeAndre Jordan",
+        "DeMarcus Cousins",
+        "Dwight Howard",
+        "Karl-Anthony Towns"
+      ]
+    },
+    {
+      "season": "2017-18",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Russell Westbrook",
+        "John Wall",
+        "LeBron James",
+        "James Harden",
+        "Rajon Rondo"
+      ]
+    },
+    {
+      "season": "2017-18",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "James Harden",
+        "Eric Gordon",
+        "Klay Thompson",
+        "Damian Lillard"
+      ]
+    },
+    {
+      "season": "2018-19",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Kevin Durant",
+        "James Harden",
+        "Kawhi Leonard",
+        "Paul George",
+        "Stephen Curry"
+      ]
+    },
+    {
+      "season": "2018-19",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Nikola Joki\u0107",
+        "Giannis Antetokounmpo",
+        "Joel Embiid",
+        "Clint Capela",
+        "Rudy Gobert"
+      ]
+    },
+    {
+      "season": "2018-19",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "Russell Westbrook",
+        "Ricky Rubio",
+        "Draymond Green",
+        "Nikola Joki\u0107",
+        "Lou Williams"
+      ]
+    },
+    {
+      "season": "2018-19",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "James Harden",
+        "Stephen Curry",
+        "Damian Lillard",
+        "Eric Gordon",
+        "Klay Thompson"
+      ]
+    },
+    {
+      "season": "2018-19",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "James Harden",
+        "Paul George",
+        "Giannis Antetokounmpo",
+        "Joel Embiid",
+        "LeBron James"
+      ]
+    },
+    {
+      "season": "2018-19",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Andre Drummond",
+        "Joel Embiid",
+        "DeAndre Jordan",
+        "Rudy Gobert",
+        "Clint Capela"
+      ]
+    },
+    {
+      "season": "2018-19",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Russell Westbrook",
+        "John Wall",
+        "Kyle Lowry",
+        "LeBron James",
+        "Jeff Teague"
+      ]
+    },
+    {
+      "season": "2018-19",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "James Harden",
+        "Paul George",
+        "Buddy Hield",
+        "Eric Gordon"
+      ]
+    },
+    {
+      "season": "2019-20",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Donovan Mitchell",
+        "Luka Don\u010di\u0107",
+        "James Harden",
+        "Kawhi Leonard",
+        "Nikola Vu\u010devi\u0107"
+      ]
+    },
+    {
+      "season": "2019-20",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Giannis Antetokounmpo",
+        "Steven Adams",
+        "Rudy Gobert",
+        "Nikola Vu\u010devi\u0107",
+        "LeBron James"
+      ]
+    },
+    {
+      "season": "2019-20",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "LeBron James",
+        "Luka Don\u010di\u0107",
+        "James Harden",
+        "Fred VanVleet",
+        "Jamal Murray"
+      ]
+    },
+    {
+      "season": "2019-20",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Donovan Mitchell",
+        "Fred VanVleet",
+        "Mike Conley",
+        "Nikola Vu\u010devi\u0107",
+        "Jamal Murray"
+      ]
+    },
+    {
+      "season": "2019-20",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "James Harden",
+        "Bradley Beal",
+        "Damian Lillard",
+        "Trae Young",
+        "Giannis Antetokounmpo"
+      ]
+    },
+    {
+      "season": "2019-20",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Andre Drummond",
+        "Clint Capela",
+        "Giannis Antetokounmpo",
+        "Hassan Whiteside",
+        "Rudy Gobert"
+      ]
+    },
+    {
+      "season": "2019-20",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "LeBron James",
+        "Trae Young",
+        "Luka Don\u010di\u0107",
+        "Ricky Rubio",
+        "Damian Lillard"
+      ]
+    },
+    {
+      "season": "2019-20",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "James Harden",
+        "Damian Lillard",
+        "Buddy Hield",
+        "Davis Bertans",
+        "Duncan Robinson"
+      ]
+    },
+    {
+      "season": "2020-21",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Luka Don\u010di\u0107",
+        "Damian Lillard",
+        "Kevin Durant",
+        "Donovan Mitchell",
+        "Jayson Tatum"
+      ]
+    },
+    {
+      "season": "2020-21",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Giannis Antetokounmpo",
+        "Rudy Gobert",
+        "Deandre Ayton",
+        "Julius Randle",
+        "Nikola Joki\u0107"
+      ]
+    },
+    {
+      "season": "2020-21",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "Russell Westbrook",
+        "Luka Don\u010di\u0107",
+        "Damian Lillard",
+        "Trae Young",
+        "Ben Simmons"
+      ]
+    },
+    {
+      "season": "2020-21",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Damian Lillard",
+        "Donovan Mitchell",
+        "Luka Don\u010di\u0107",
+        "Seth Curry",
+        "Tim Hardaway Jr."
+      ]
+    },
+    {
+      "season": "2020-21",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Stephen Curry",
+        "Bradley Beal",
+        "Damian Lillard",
+        "Joel Embiid",
+        "Giannis Antetokounmpo"
+      ]
+    },
+    {
+      "season": "2020-21",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Clint Capela",
+        "Rudy Gobert",
+        "Jonas Valanciunas",
+        "Andre Drummond",
+        "Domantas Sabonis"
+      ]
+    },
+    {
+      "season": "2020-21",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Russell Westbrook",
+        "James Harden",
+        "Trae Young",
+        "Chris Paul",
+        "Draymond Green"
+      ]
+    },
+    {
+      "season": "2020-21",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Damian Lillard",
+        "Buddy Hield",
+        "CJ McCollum",
+        "Duncan Robinson"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Giannis Antetokounmpo",
+        "Luka Don\u010di\u0107",
+        "Nikola Joki\u0107",
+        "Jimmy Butler III",
+        "Stephen Curry"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Jonas Valanciunas",
+        "Giannis Antetokounmpo",
+        "Nikola Joki\u0107",
+        "Rudy Gobert",
+        "Nikola Vu\u010devi\u0107"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "Ja Morant",
+        "James Harden",
+        "Chris Paul",
+        "Giannis Antetokounmpo",
+        "D'Angelo Russell"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Anthony Edwards",
+        "Desmond Bane",
+        "Klay Thompson",
+        "Luka Don\u010di\u0107"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Joel Embiid",
+        "LeBron James",
+        "Giannis Antetokounmpo",
+        "Kevin Durant",
+        "Luka Don\u010di\u0107"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Rudy Gobert",
+        "Nikola Joki\u0107",
+        "Domantas Sabonis",
+        "Jaylen Hoard",
+        "Clint Capela"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Chris Paul",
+        "James Harden",
+        "Trae Young",
+        "Dejounte Murray",
+        "Luka Don\u010di\u0107"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Fred VanVleet",
+        "Klay Thompson",
+        "Donovan Mitchell",
+        "Kyrie Irving"
+      ]
+    },
+    {
+      "season": "2022-23",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Devin Booker",
+        "Anthony Edwards",
+        "Stephen Curry",
+        "Nikola Joki\u0107",
+        "Trae Young"
+      ]
+    },
+    {
+      "season": "2022-23",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Anthony Davis",
+        "Nikola Joki\u0107",
+        "Kevon Looney",
+        "Rudy Gobert",
+        "Domantas Sabonis"
+      ]
+    },
+    {
+      "season": "2022-23",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "Trae Young",
+        "Nikola Joki\u0107",
+        "James Harden",
+        "Jrue Holiday",
+        "De'Aaron Fox"
+      ]
+    },
+    {
+      "season": "2022-23",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "Tyrese Maxey",
+        "Anthony Edwards",
+        "De'Aaron Fox"
+      ]
+    },
+    {
+      "season": "2022-23",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Joel Embiid",
+        "Luka Don\u010di\u0107",
+        "Damian Lillard",
+        "Shai Gilgeous-Alexander",
+        "Giannis Antetokounmpo"
+      ]
+    },
+    {
+      "season": "2022-23",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Anthony Davis",
+        "Domantas Sabonis",
+        "Nikola Joki\u0107",
+        "Giannis Antetokounmpo",
+        "Rudy Gobert"
+      ]
+    },
+    {
+      "season": "2022-23",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "James Harden",
+        "Tyrese Haliburton",
+        "Trae Young",
+        "Nikola Joki\u0107",
+        "Chris Paul"
+      ]
+    },
+    {
+      "season": "2022-23",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Klay Thompson",
+        "Damian Lillard",
+        "LaMelo Ball",
+        "Donovan Mitchell"
+      ]
+    },
+    {
+      "season": "2023-24",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Joel Embiid",
+        "Jalen Brunson",
+        "Shai Gilgeous-Alexander",
+        "Tyrese Maxey",
+        "Donovan Mitchell"
+      ]
+    },
+    {
+      "season": "2023-24",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Anthony Davis",
+        "Nikola Joki\u0107",
+        "Josh Hart",
+        "Bobby Portis Jr.",
+        "Joel Embiid"
+      ]
+    },
+    {
+      "season": "2023-24",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "LeBron James",
+        "Nikola Joki\u0107",
+        "Tyrese Haliburton",
+        "Luka Don\u010di\u0107",
+        "James Harden"
+      ]
+    },
+    {
+      "season": "2023-24",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Tyrese Maxey",
+        "Tyrese Haliburton",
+        "Donte DiVincenzo",
+        "Derrick White",
+        "Luka Don\u010di\u0107"
+      ]
+    },
+    {
+      "season": "2023-24",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Joel Embiid",
+        "Luka Don\u010di\u0107",
+        "Giannis Antetokounmpo",
+        "Shai Gilgeous-Alexander",
+        "Jalen Brunson"
+      ]
+    },
+    {
+      "season": "2023-24",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Domantas Sabonis",
+        "Rudy Gobert",
+        "Anthony Davis",
+        "Nikola Joki\u0107",
+        "Jalen Duren"
+      ]
+    },
+    {
+      "season": "2023-24",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Tyrese Haliburton",
+        "Trae Young",
+        "Luka Don\u010di\u0107",
+        "Nikola Joki\u0107",
+        "James Harden"
+      ]
+    },
+    {
+      "season": "2023-24",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Luka Don\u010di\u0107",
+        "CJ McCollum",
+        "Donte DiVincenzo",
+        "Klay Thompson"
+      ]
+    },
+    {
+      "season": "2024-25",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Giannis Antetokounmpo",
+        "Luka Don\u010di\u0107",
+        "Shai Gilgeous-Alexander",
+        "Donovan Mitchell",
+        "Jalen Brunson"
+      ]
+    },
+    {
+      "season": "2024-25",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Giannis Antetokounmpo",
+        "Nikola Joki\u0107",
+        "Alperen Sengun",
+        "Karl-Anthony Towns",
+        "Jayson Tatum"
+      ]
+    },
+    {
+      "season": "2024-25",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "James Harden",
+        "Cade Cunningham",
+        "Tyrese Haliburton",
+        "Nikola Joki\u0107",
+        "Jalen Brunson"
+      ]
+    },
+    {
+      "season": "2024-25",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Gary Trent Jr.",
+        "Stephen Curry",
+        "Fred VanVleet",
+        "Derrick White",
+        "Jayson Tatum"
+      ]
+    },
+    {
+      "season": "2024-25",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Shai Gilgeous-Alexander",
+        "Giannis Antetokounmpo",
+        "Nikola Joki\u0107",
+        "Luka Don\u010di\u0107",
+        "Anthony Edwards"
+      ]
+    },
+    {
+      "season": "2024-25",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Domantas Sabonis",
+        "Karl-Anthony Towns",
+        "Nikola Joki\u0107",
+        "Ivica Zubac",
+        "Walker Kessler"
+      ]
+    },
+    {
+      "season": "2024-25",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Trae Young",
+        "Nikola Joki\u0107",
+        "Tyrese Haliburton",
+        "Cade Cunningham",
+        "James Harden"
+      ]
+    },
+    {
+      "season": "2024-25",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Anthony Edwards",
+        "Malik Beasley",
+        "Brandon Miller",
+        "LaMelo Ball"
+      ]
+    },
+    {
+      "season": "2025-26",
+      "phase": "Playoffs",
+      "metric": "Points",
+      "players": [
+        "Jalen Brunson",
+        "Cade Cunningham",
+        "Shai Gilgeous-Alexander",
+        "Paolo Banchero",
+        "Donovan Mitchell"
+      ]
+    },
+    {
+      "season": "2025-26",
+      "phase": "Playoffs",
+      "metric": "Rebounds",
+      "players": [
+        "Nikola Joki\u0107",
+        "Victor Wembanyama",
+        "Jayson Tatum",
+        "Karl-Anthony Towns",
+        "Alperen Sengun"
+      ]
+    },
+    {
+      "season": "2025-26",
+      "phase": "Playoffs",
+      "metric": "Assists",
+      "players": [
+        "Nikola Joki\u0107",
+        "Scottie Barnes",
+        "Shai Gilgeous-Alexander",
+        "Cade Cunningham",
+        "LeBron James"
+      ]
+    },
+    {
+      "season": "2025-26",
+      "phase": "Playoffs",
+      "metric": "3P Made",
+      "players": [
+        "Desmond Bane",
+        "Rui Hachimura",
+        "Paul George",
+        "Jabari Smith Jr.",
+        "Jayson Tatum"
+      ]
+    },
+    {
+      "season": "2025-26",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Luka Don\u010di\u0107",
+        "Shai Gilgeous-Alexander",
+        "Anthony Edwards",
+        "Jaylen Brown",
+        "Tyrese Maxey"
+      ]
+    },
+    {
+      "season": "2025-26",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Nikola Joki\u0107",
+        "Karl-Anthony Towns",
+        "Donovan Clingan",
+        "Victor Wembanyama",
+        "Rudy Gobert"
+      ]
+    },
+    {
+      "season": "2025-26",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Nikola Joki\u0107",
+        "Cade Cunningham",
+        "Josh Giddey",
+        "Luka Don\u010di\u0107",
+        "Ja Morant"
+      ]
+    },
+    {
+      "season": "2025-26",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Stephen Curry",
+        "Luka Don\u010di\u0107",
+        "LaMelo Ball",
+        "Michael Porter Jr.",
+        "Kon Knueppel"
+      ]
+    },
+    {
+      "season": "2026-27",
+      "phase": "Regular Season",
+      "metric": "Points",
+      "players": [
+        "Luka Don\u010di\u0107",
+        "Shai Gilgeous-Alexander",
+        "Victor Wembanyama",
+        "Giannis Antetokounmpo",
+        "Stephen Curry"
+      ]
+    },
+    {
+      "season": "2026-27",
+      "phase": "Regular Season",
+      "metric": "Rebounds",
+      "players": [
+        "Karl-Anthony Towns",
+        "Domantas Sabonis",
+        "Giannis Antetokounmpo",
+        "Victor Wembanyama",
+        "Isaiah Hartenstein"
+      ]
+    },
+    {
+      "season": "2026-27",
+      "phase": "Regular Season",
+      "metric": "Assists",
+      "players": [
+        "Davion Mitchell",
+        "Nikola Joki\u0107",
+        "Trae Young",
+        "Franz Wagner",
+        "Josh Giddey"
+      ]
+    },
+    {
+      "season": "2026-27",
+      "phase": "Regular Season",
+      "metric": "3P Made",
+      "players": [
+        "Luka Don\u010di\u0107",
+        "Stephen Curry",
+        "Desmond Bane",
+        "Klay Thompson",
+        "Duncan Robinson"
+      ]
+    }
+  ]
+}
