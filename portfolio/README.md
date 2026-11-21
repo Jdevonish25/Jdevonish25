@@ -2,7 +2,7 @@
 
 Eight analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
 
-**Start with the live dashboard**, open its **00 | Start Here** page, then use this guide to understand the decision context and limitations. Download the `.twbx` workbook to inspect the packaged Tableau implementation locally.
+**Start with the live dashboard** and its Data & Methodology or Start Here view. Use the case studies to understand decisions, measures and limitations. Download the HTML/SVG source bundle or Tableau workbook to inspect the implementation.
 
 **[Back to my profile](https://github.com/Jdevonish25)** · **[All live dashboards](https://public.tableau.com/app/profile/jul.dev/vizzes)** · **[Machine learning capstone](https://github.com/Jdevonish25/Capstone_FMA_Project)**
 
