@@ -2,7 +2,7 @@
 
 An interactive HTML, CSS and SVG dashboard by Julian Devonish, using official Bank of Jamaica lending and loan-quality data. No synthetic financial observations.
 
-**[Open the live dashboard](https://jamaica-credit-intelligence-julian.sparklingcocoa64.chatgpt.site)** · [Download the complete source](Jamaica-Credit-Intelligence-source.zip)
+**[Open the live dashboard](https://jdevonish25.github.io/Jdevonish25/)** · [Download the complete source](Jamaica-Credit-Intelligence-source.zip)
 
 ## Decision context
 Where does Jamaican credit sit, how is lending changing, and which customer groups hold overdue balances? Four views connect the executive overview, business-sector exposure, overdue-loan composition and methodology.

@@ -8,7 +8,7 @@ Eight analytics projects combining HTML/SVG and Tableau dashboards, including Ja
 
 ## Jamaica Credit Intelligence
 
-[Open dashboard](https://jamaica-credit-intelligence-julian.sparklingcocoa64.chatgpt.site) · [Technical case study](Jamaica-Credit-Intelligence-case-study.md) · [HTML/SVG source and data](Jamaica-Credit-Intelligence-source.zip)
+[Open dashboard](https://jdevonish25.github.io/Jdevonish25/) · [Technical case study](Jamaica-Credit-Intelligence-case-study.md) · [HTML/SVG source and data](Jamaica-Credit-Intelligence-source.zip)
 
 **Decision context:** understand lending growth, sector exposure and the distribution of overdue balances in Jamaica’s deposit-taking system.
 
