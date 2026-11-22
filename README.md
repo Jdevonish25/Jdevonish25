@@ -18,6 +18,7 @@ I turn business questions into reliable reporting datasets, clear dashboards and
 
 | Project | Business question | Data | Explore |
 | --- | --- | --- | --- |
+| **Jamaica Loan Match** | How do published bank rates and loan terms compare against a personal monthly budget? | Official Jamaican bank product pages; 21 Nov 2026 snapshot | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/JamaicaLoanMatch/01LoanMatch) · [Case study](https://github.com/Jdevonish25/Jdevonish25/blob/main/portfolio/Jamaica-Loan-Match-case-study.md) |
 | **Jamaica Credit Intelligence** | Where is lending growing and where do overdue balances sit? | Official Bank of Jamaica monthly tables, 2017–2026 | [Dashboard](https://jdevonish25.github.io/Jdevonish25/) · [Case study](https://github.com/Jdevonish25/Jdevonish25/blob/main/portfolio/Jamaica-Credit-Intelligence-case-study.md) |
 | **NBA Courtside — The Modern Era** | How do player production, team identity and playing style vary across seasons? | NBA.com-derived statistics, 2014–15–2026–27; current season partial | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/NBACourtside-TheModernEra/01Courtside) · [Case study](https://github.com/Jdevonish25/Jdevonish25/tree/main/portfolio#nba-courtside--the-modern-era) |
 | **Jamaica Tourism Demand** | How do arrival volumes, seasonality and source-market concentration change? | Jamaica Tourist Board, 2023–2025 | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/Jamaica-TourismDemandIntelligence_17951847615340/01DemandBrief) · [Case study](https://github.com/Jdevonish25/Jdevonish25/tree/main/portfolio#jamaica-tourism-demand) |
@@ -27,7 +28,7 @@ I turn business questions into reliable reporting datasets, clear dashboards and
 | **FDA Product Recalls** | How do product-recall records vary by classification and geography? | Archived U.S. FDA product-recall data | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/FDAProductRecallData/FDAProductRecall) · [Case study](https://github.com/Jdevonish25/Jdevonish25/tree/main/portfolio#fda-product-recalls) |
 | **Superstore Performance** | Which regions and product categories drive sales and profit? | Tableau Sample Superstore demonstration dataset | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/SampleSuperstore_16854554175570/SalesDashboard) · [Case study](https://github.com/Jdevonish25/Jdevonish25/tree/main/portfolio#superstore-performance) |
 
-The HTML/SVG credit dashboard includes a **Data & Methodology** view; each Tableau dashboard includes a **Start Here** page explaining its purpose, data, measures, filters and limitations. The case studies distinguish observed results from potential business actions.
+The HTML/SVG credit dashboard includes a **Data & Methodology** view; Tableau projects include a **Start Here** page or **Data & guide** view explaining its purpose, data, measures, filters and limitations. The case studies distinguish observed results from potential business actions.
 
 ## Applied data science capstone
 
