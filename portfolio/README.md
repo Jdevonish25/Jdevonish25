@@ -1,10 +1,26 @@
 # Analytics Portfolio | Julian Devonish
 
-Eight analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
+Nine analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
 
-**Start with the live dashboard** and its Data & Methodology or Start Here view. Use the case studies to understand decisions, measures and limitations. Download the HTML/SVG source bundle or Tableau workbook to inspect the implementation.
+**Start with the live dashboard** and its Data & Methodology, Data & guide or Start Here view. Use the case studies to understand decisions, measures and limitations. Download the HTML/SVG source bundle or Tableau workbook to inspect the implementation.
 
 **[Back to my profile](https://github.com/Jdevonish25)** · **[All live dashboards](https://public.tableau.com/app/profile/jul.dev/vizzes)** · **[Machine learning capstone](https://github.com/Jdevonish25/Capstone_FMA_Project)**
+
+## Jamaica Loan Match
+
+[Open dashboard](https://public.tableau.com/app/profile/jul.dev/viz/JamaicaLoanMatch/01LoanMatch) · [Download workbook](Jamaica%20Loan%20Match.twbx) · [Technical case study](Jamaica-Loan-Match-case-study.md) · [Source and validation bundle](Jamaica-Loan-Match-source.zip)
+
+![Jamaica Loan Match: official published rate ranges, monthly repayment estimates and a personal-budget comparison](Jamaica-Loan-Match-overview.png)
+
+**Decision context:** compare published loan products across five Jamaican banks and explore how repayment estimates relate to an adjustable household budget.
+
+**Data:** twenty curated product entries across personal unsecured, new vehicle, used vehicle and home mortgage loans. Official bank pages retrieved 21 November 2026; nine entries have numeric rates and eleven require a quote. The 600-row extract is a product × term × rate-endpoint calculation scaffold, not observed borrowers or loan applications.
+
+**Experience:** four connected views cover loan comparisons, bank conditions, repayment-versus-interest term tradeoffs, and a source/calculation guide. Inputs include principal, months, take-home income, debts, essential expenses, a personal debt-budget cap, employment and nominal/effective annual scenario conventions.
+
+**Skills:** source research, provenance, Python preparation, Tableau Hyper modelling, parameters and calculated fields, financial-model validation, native navigation, SVG styling and transparent analytical communication.
+
+**Interpretation:** published annual-rate definitions differ; the common calculation convention is an explicit scenario assumption. Fees, insurance, taxes and rate changes are excluded. Missing rates remain unknown, and budget fit is not bank approval or proof of the cheapest complete offer. Many pages are undated; confirm current written quotes.
 
 ## Jamaica Credit Intelligence
 
