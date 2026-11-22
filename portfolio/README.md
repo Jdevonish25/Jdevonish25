@@ -1,10 +1,26 @@
 # Analytics Portfolio | Julian Devonish
 
-Nine analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
+Ten analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
 
 **Start with the live dashboard** and its Data & Methodology, Data & guide or Start Here view. Use the case studies to understand decisions, measures and limitations. Download the HTML/SVG source bundle or Tableau workbook to inspect the implementation.
 
 **[Back to my profile](https://github.com/Jdevonish25)** · **[All live dashboards](https://public.tableau.com/app/profile/jul.dev/vizzes)** · **[Machine learning capstone](https://github.com/Jdevonish25/Capstone_FMA_Project)**
+
+## Jamaica Health Pulse
+
+[Open dashboard](https://public.tableau.com/app/profile/jul.dev/viz/JamaicaHealthPulse/01NationalBrief) · [Download workbook](Jamaica%20Health%20Pulse.twbx) · [Technical case study](Jamaica-Health-Pulse-case-study.md) · [Source and validation bundle](Jamaica-Health-Pulse-source.zip)
+
+![Jamaica Health Pulse: official mortality and survey evidence](Jamaica-Health-Pulse-overview.png)
+
+**Decision context:** make chronic-disease mortality and prevention evidence easier to investigate while keeping dates, populations and measures distinct.
+
+**Data:** 574 curated aggregate observations from two official Ministry of Health & Wellness reports. Mortality covers 1996–2023 (respiratory to 2022); JHLS III survey observations are from 2016–17, published December 2024. No synthetic health outcomes or patient records.
+
+**Experience:** five connected Tableau views explore a national brief, mortality trends, age and sex survey patterns, measured versus self-reported prevalence, and a source/definition guide.
+
+**Skills:** PDF extraction, source provenance, Python, Hyper modelling, LOD calculations, parameter-driven exploration, missing-data handling, SVG styling and analytical communication.
+
+**Interpretation:** rates are age-standardised, not death counts. Survey gaps are percentage-point differences, not confirmed undiagnosed fractions. Conditions overlap; separate age and sex estimates are not combined. Observation dates and limitations remain visible.
 
 ## Jamaica Loan Match
 
