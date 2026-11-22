@@ -1,10 +1,26 @@
 # Analytics Portfolio | Julian Devonish
 
-Ten analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
+Eleven analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
 
 **Start with the live dashboard** and its Data & Methodology, Data & guide or Start Here view. Use the case studies to understand decisions, measures and limitations. Download the HTML/SVG source bundle or Tableau workbook to inspect the implementation.
 
 **[Back to my profile](https://github.com/Jdevonish25)** · **[All live dashboards](https://public.tableau.com/app/profile/jul.dev/vizzes)** · **[Machine learning capstone](https://github.com/Jdevonish25/Capstone_FMA_Project)**
+
+## Financial Complaints Intelligence
+
+[Open dashboard](https://public.tableau.com/app/profile/jul.dev/viz/FinancialComplaintsIntelligence/01ExecutiveBrief) · [Download workbook](Financial%20Complaints%20Intelligence.twbx) · [Technical case study](Financial-Complaints-Intelligence-case-study.md) · [Source and validation bundle](Financial-Complaints-Intelligence-source.zip)
+
+![Financial Complaints Intelligence: official complaint trends and company responses](Financial-Complaints-Intelligence-overview.png)
+
+**Decision context:** identify concentrations in reported financial-service issues and examine company-response patterns without confusing complaint volumes with customer complaint rates.
+
+**Data:** 404,353 official U.S. CFPB complaint records received in 2024–2025 across bank accounts, credit cards and money services, downloaded 22 November 2026. Grouped into 23,695 facts; no synthetic complaints, consumer narratives, ZIP codes or individual IDs are published.
+
+**Experience:** four connected Tableau views cover an executive brief, product investigation, company comparisons and a data guide. Counts, year-over-year comparisons, weighted timely-response percentages and monetary-relief response shares have explicit denominators and filter scope.
+
+**Skills:** API extraction, Python, aggregation, Hyper modelling, parameter-driven KPIs, treemap and trend design, source reconciliation and operational interpretation.
+
+**Interpretation:** January contributes 29.8% of 2025 volume in this scope; the spike is described, not causally explained. Company size and customer exposure are absent. Published complaints are not representative, and response categories do not establish satisfaction, dollar relief or resolution quality.
 
 ## Jamaica Health Pulse
 
