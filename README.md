@@ -9,15 +9,19 @@ I turn business questions into reliable reporting datasets, clear dashboards and
 ## What I bring
 
 - **Business intelligence:** interactive Tableau dashboards, KPI definitions, calculated fields, filters and management reporting.
+
 - **Data development:** Python workflows for Excel ingestion, transformation and PostgreSQL loading, with execution logging.
+
 - **Data quality:** reconciliation to source data, checks for missing values and completeness, and validation of reporting calculations.
+
 - **Business analysis:** requirements elicitation, stakeholder interviews, process mapping, functional requirements and technical documentation.
+
 - **Analytics adoption:** dashboard cataloging, Tableau Server metadata analysis, user guidance and training support.
 
 ## Featured analytics projects
-
 | Project | Business question | Data | Explore |
 | --- | --- | --- | --- |
+| **Jamaica Energy Pulse** | How do electricity sources, customer-class sales and average charges compare? | Official METT/JPS annual statistics, 2021–2025; 2025 preliminary | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/JamaicaEnergyPulse_17957981668130/01EnergyPulse) · [Case study](https://github.com/Jdevonish25/Jdevonish25/blob/main/portfolio/Jamaica-Energy-Pulse-case-study.md) |
 | **Financial Complaints Intelligence** | Where do reported financial-service issues concentrate, and how do company responses compare? | Official U.S. CFPB complaints, received 2024–2025 | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/FinancialComplaintsIntelligence/01ExecutiveBrief) · [Case study](https://github.com/Jdevonish25/Jdevonish25/blob/main/portfolio/Financial-Complaints-Intelligence-case-study.md) |
 | **Jamaica Health Pulse** | How do chronic-disease mortality trends and survey prevalence differ across time and population groups? | Official MOHW reports; mortality 1996–2023 and survey 2016–17 | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/JamaicaHealthPulse/01NationalBrief) · [Case study](https://github.com/Jdevonish25/Jdevonish25/blob/main/portfolio/Jamaica-Health-Pulse-case-study.md) |
 | **Jamaica Loan Match** | How do published bank rates and loan terms compare against a personal monthly budget? | Official Jamaican bank product pages; 21 Nov 2026 snapshot | [Dashboard](https://public.tableau.com/app/profile/jul.dev/viz/JamaicaLoanMatch/01LoanMatch) · [Case study](https://github.com/Jdevonish25/Jdevonish25/blob/main/portfolio/Jamaica-Loan-Match-case-study.md) |
@@ -47,7 +51,6 @@ At **eGov Jamaica Limited**, I have worked as a **BI Analyst / Data Developer (O
 My experience includes dashboard development across four reporting areas, stakeholder-defined reporting logic, a Python-to-PostgreSQL data pipeline, dashboard usage analysis and organizational data cataloging. My business analysis work includes requirements and process documentation for information management, counter automation and data warehouse initiatives.
 
 ## Technical toolkit
-
 | Area | Tools & methods |
 | --- | --- |
 | BI & reporting | Tableau, Power BI, Excel, KPI design, data storytelling |
@@ -60,3 +63,4 @@ My experience includes dashboard development across four reporting areas, stakeh
 I am interested in BI, data analyst and business analyst opportunities where I can connect business needs with dependable data and useful insights.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/julian-devonish-588b3732b/) · [jdevonish25@gmail.com](mailto:jdevonish25@gmail.com)
+
