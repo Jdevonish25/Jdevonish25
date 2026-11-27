@@ -1,10 +1,22 @@
 # Analytics Portfolio | Julian Devonish
 
-Eleven analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
+Twelve analytics projects combining HTML/SVG and Tableau dashboards, including Jamaican credit and lending intelligence.
 
 **Start with the live dashboard** and its Data & Methodology, Data & guide or Start Here view. Use the case studies to understand decisions, measures and limitations. Download the HTML/SVG source bundle or Tableau workbook to inspect the implementation.
 
 **[Back to my profile](https://github.com/Jdevonish25)** · **[All live dashboards](https://public.tableau.com/app/profile/jul.dev/vizzes)** · **[Machine learning capstone](https://github.com/Jdevonish25/Capstone_FMA_Project)**
+
+## Jamaica Energy Pulse
+
+[Open dashboard](https://public.tableau.com/app/profile/jul.dev/viz/JamaicaEnergyPulse_17957981668130/01EnergyPulse) · [Download workbook](Jamaica%20Energy%20Pulse.twbx) · [Case study](Jamaica-Energy-Pulse-case-study.md) · [Source and validation](Jamaica-Energy-Pulse-source.zip)
+
+![Jamaica Energy Pulse](Jamaica-Energy-Pulse-overview.png)
+
+**Decision context:** understand reported electricity generation, customer-class sales and historical average charges in Jamaica. Three native Tableau views combine a concise energy overview, cost comparison and methodology.
+
+**Data and methods:** 105 official METT/JPS observations for 2021–2025, with 2025 preliminary. Python checks preserve the source grain, reconcile annual totals and validate all 30 class/year comparisons. Selected-year KPIs include prior-year context; class premiums use the published system average.
+
+**Interpretation:** historical average charges are not current tariffs or complete bills. Losses do not identify theft or causes. No forecasts, parish-level claims or synthetic observations are added.
 
 ## Financial Complaints Intelligence
 
@@ -173,11 +185,16 @@ Eleven analytics projects combining HTML/SVG and Tableau dashboards, including J
 ## Quality and responsible interpretation
 
 - Every workbook includes a viewer guide covering purpose, sources, counting unit, metric definitions, filters and limitations.
+
 - Published snapshots were checked for layout and calculation behavior; original embedded Hyper extracts were preserved during the portfolio presentation review.
+
 - Reported snapshot figures describe these datasets. They are not claims of business results achieved for an employer.
+
 - Professional experience is summarized on the profile. Employer datasets, internal dashboards and confidential deliverables are not included here.
+
 - Workbooks contain embedded extracts. To view interactively without Tableau Desktop, use the live dashboard links above. A `.twbx` download can be opened in a compatible Tableau application.
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/julian-devonish-588b3732b/) · [jdevonish25@gmail.com](mailto:jdevonish25@gmail.com)
+
